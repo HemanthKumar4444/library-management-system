@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Classic",
+    "available": true,
+    "issuedTo": null
+  },
+  {
+    "id": 2,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "available": false,
+    "issuedTo": 2
+  },
+  {
+    "id": 3,
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "genre": "Science",
+    "available": true,
+    "issuedTo": null
+  },
+  {
+    "id": 4,
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "genre": "Programming",
+    "available": true,
+    "issuedTo": null
+  },
+  {
+    "id": 5,
+    "title": "Harry Potter and the Sorcerer’s Stone",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "available": false,
+    "issuedTo": 3
+  }
+]
